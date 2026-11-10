@@ -1,5 +1,7 @@
 accoglienza alunni
 divisione in gruppi in base all'indirizzo
 laboratori e domande agli studenti dell'Itis
+visita aule
+visita luoghi comuni
 incontro con i genitori
 domande ai docenti
